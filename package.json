@@ -1,4 +1,6 @@
 {
+  "license": "MIT",
+  "homepage": "https://github.com/fu-ry17/is-even",
   "name": "is-even",
   "version": "1.0.0",
   "description": "cool npm package",
